@@ -6,6 +6,7 @@ spring:
       server:
         git:
           uri: https://github.com/karanvdulani/spring-cloud-config
+          default-label: main
           search-paths:
            - '*service'
 
