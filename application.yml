@@ -1,6 +1,6 @@
     config:
       server:
         git:
-          uri: https://github.com/karanvdulani/spring-cloud-config
+          uri: https://github.com/karanvdulani/spring-cloud-config-store
           search-paths:
            - '*service'
